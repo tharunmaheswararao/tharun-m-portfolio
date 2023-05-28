@@ -1,0 +1,17 @@
+.fire-btn {
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+    margin-top: -3%;
+}
+
+.fire > img {
+    border: 1px solid #c72020;
+    width:30%
+}
+
+.fire :hover {
+    background-color: aliceblue;
+    border: none;
+}
+

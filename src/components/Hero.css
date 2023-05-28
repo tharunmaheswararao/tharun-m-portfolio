@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.hero {
+    background-color: #080707;
+    height: 70vh;
+}
+
+#hero-line {
+  /* font-family: 'Montserrat', sans-serif; */
+    font-family: monospace;
+    /* float: left;
+    margin-top: 8%;
+    margin-left: -14%;
+    text-align: left;
+    font-size: 25px;
+    color: aliceblue;
+    border: none; */
+}
+
+#name {
+    font-family: 'Montserrat', sans-serif;
+    /* font-size: 45px;
+    font-weight: bolder;
+    color: #c72020;
+    margin-top: -4%;
+    margin-left: -2%;
+    margin-bottom: -10%;
+    border: none; */
+}
+
+/* #img-hero {
+    margin-top: 5%;
+    margin-left: 7%;
+    margin-right: 5%;
+    width: 30%;
+} */
+
+/* #about-me, #contact-me, #stack, #achievements {
+    cursor: pointer;
+    background: none;
+    border: none;
+    float: left;
+    margin-top: 17%;
+    text-decoration: none;
+    font-weight:500;
+} */
+
+/* #about-me {
+    margin-left: -47%;
+}
+
+#stack {
+    margin-left: -36.5%;
+}
+
+#achievements {
+    margin-left: -29.4%;
+}
+
+#contact-me {
+    margin-left: -15%;
+} */
+
+p {
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid #c72020;
+    color: #c72020;
+}
+
+#about-me :hover, #contact-me :hover{
+    color: #c72020;
+	border: 1px solid #080707;
+	background-color: aliceblue;
+}
+
+#motto {
+    font-family: 'Montserrat', sans-serif;
+}
