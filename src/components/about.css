@@ -1,9 +1,9 @@
 #about-content {
 	color: aliceblue;
-	font-size: 20px;
-	padding: 10px;
+	/* font-size: 20px; */
+	/* padding: 10px; */
     text-align:justify;
-    font-family: monospace;
+    font-family: sans-serif;
     border-style: none;
 }
 

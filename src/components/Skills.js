@@ -21,12 +21,12 @@ import linux from '../assets/linux.png'
 const Skills = () => {
     return (
         <div id="gallery" className="flex flex-col text-white items-center px-5 py-10 ">
-            <div class="main text-6xl text-center md:text-7xl mb-10 text-[#c72020] font-bold">
-                <span class="socod text-left">I'm co<span className='text-white'>M</span>fortable with...</span>
+            <div class="main text-center md:text-7xl mb-10 text-[#c72020] font-bold">
+                <span class="socod text-6xl md:text-left">I'm co<span className='text-white'>M</span>fortable with...</span>
             </div>
 
-            <div class="flex flex-col lg:flex-row lg:px-20 mt-6">
-                <div class="flex flex-col mb-0 basis-1/3">
+            <div class="grid grid-cols-3 gap-4 md:flex md:flex-col lg:flex-row lg:px-20 mt-6">
+                <div class="md:flex md:flex-col mb-0 basis-1/3">
                     <img
                         src={html5}
                         class="w-100 shadow-lg rounded-xl mb-4 hover:scale-110 duration-700 object-cover"
