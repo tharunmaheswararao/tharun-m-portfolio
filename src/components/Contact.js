@@ -14,10 +14,10 @@ const Contact = () => {
                     <a href='mailto: tharun.m1807@gmail.com' target="_blank" rel="noreferrer"><BsFillEnvelopeAtFill className='hover:bg-[#080707]' /></a>
                 </div>
                 <div className='text-white'>
-                    <a href='https://www.linkedin.com/in/tharun-m-3394a7223/' target="_blank" rel="noreferrer"><FaLinkedin className='hover:bg-[#080707]' /></a>
+                    <a href='https://www.linkedin.com/in/tharun-maheswararao-3394a7223/' target="_blank" rel="noreferrer"><FaLinkedin className='hover:bg-[#080707]' /></a>
                 </div>
                 <div className='text-white'>
-                    <a href='https://github.com/tharunsamael' target="_blank" rel="noreferrer"><FaGithub className='hover:bg-[#080707]' /></a>
+                    <a href='https://github.com/tharunmaheswararao' target="_blank" rel="noreferrer"><FaGithub className='hover:bg-[#080707]' /></a>
                 </div>
                 <div className='text-white'>
                     <a href='https://www.instagram.com/_tharun.m_/' target="_blank" rel="noreferrer"><FaInstagram className='hover:bg-[#080707]' /></a>
