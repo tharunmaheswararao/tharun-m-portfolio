@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tharunsamael.github.io/tharun-m-portfolio",
+  "homepage": "https://www.devopsncloudwithg1.xyz",
   "name": "tharun-m-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "react-router-dom": "^6.8.1",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
+    "tharun-m-portfolio": "file:",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
